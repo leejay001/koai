@@ -1,0 +1,10 @@
+# Example configuration for GitHub Packages
+# Copy this file to 'github.properties' and replace with your actual values
+# DO NOT commit github.properties to version control
+
+# Your GitHub username
+gpr.user=YOUR_GITHUB_USERNAME
+
+# Your GitHub personal access token with packages:read and packages:write permissions
+# Generate one at https://github.com/settings/tokens
+gpr.token=YOUR_GITHUB_TOKEN 
