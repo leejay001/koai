@@ -1,10 +1,7 @@
 package com.lee.openai.api.chat
 
-import com.azure.core.annotation.Generated
-import com.azure.core.annotation.Immutable
+
 import com.fasterxml.jackson.annotation.*
-import com.lee.openai.anotations.OpenAIDsl
-import kotlinx.serialization.SerialName
 
 /**
  * Details of the tool call.

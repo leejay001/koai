@@ -1,3 +1,2 @@
-
-rootProject.name = "KoAI"
+rootProject.name = "koai"
 

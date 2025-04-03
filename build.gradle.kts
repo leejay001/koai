@@ -8,6 +8,7 @@ plugins {
 
 group = "com.lee"
 version = "1.0.0"
+base.archivesName.set("koai")
 
 apply(from = "deploy.gradle")
 

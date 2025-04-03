@@ -2,7 +2,6 @@ package com.lee.net.http.extension
 
 import com.fasterxml.jackson.databind.JsonNode
 import com.fasterxml.jackson.databind.node.ObjectNode
-import com.lee.net.httpclient.JsonLenient
 import com.lee.net.httpclient.safeJackson
 import com.lee.openai.api.completion.CompletionRequest
 import com.lee.openai.api.file.FileSource

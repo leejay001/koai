@@ -1,15 +1,13 @@
 package com.lee.net.http.extension
 
-import com.lee.net.httpclient.JsonLenient
 import com.lee.net.httpclient.safeJackson
 import io.ktor.client.call.*
 import io.ktor.client.statement.*
 import io.ktor.utils.io.*
-import io.ktor.utils.io.core.*
 import kotlinx.coroutines.currentCoroutineContext
 import kotlinx.coroutines.flow.FlowCollector
 import kotlinx.coroutines.isActive
-import kotlin.text.toByteArray
+
 
 private const val STREAM_PREFIX = "data:"
 private const val STREAM_END_TOKEN = "$STREAM_PREFIX [DONE]"
