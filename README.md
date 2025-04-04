@@ -1,6 +1,6 @@
-# AI-Hub: Unified LLM Access Library
+# KOAI: Unified LLM Access Library
 
-AI-Hub is a powerful, flexible Kotlin library that provides a unified interface for interacting with various Large Language Model (LLM) providers. It simplifies the management of multiple AI service providers, handles authentication, load balancing, and fallback mechanisms transparently.
+KOAI is a powerful, flexible Kotlin library that provides a unified interface for interacting with various Large Language Model (LLM) providers. It simplifies the management of multiple AI service providers, handles authentication, load balancing, and fallback mechanisms transparently.
 
 ## Features
 
